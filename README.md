@@ -1,2 +1,3 @@
 # Exam_projects
-Raccolta di progetti per esami
+Calcolo degli esponenti di Lyapunov del modello di Lorenz usando ortonormalizzazione di Gram-Schmidt
+
